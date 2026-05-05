@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "question": "Preciso fazer estágio obrigatório?",
+    "answer": "Sim, o estágio é obrigatório.",
+    "tagList": ["estagio", "curso"],
+    "sourceList": ["https://exemplo.com/estagio"]
+  },
+  {
+    "id": 2,
+    "question": "Quantas horas complementares são necessárias?",
+    "answer": "O curso exige 120 horas de atividades complementares.",
+    "tagList": ["horas complementares", "curso"],
+    "sourceList": ["https://exemplo.com/horas-complementares"]
+  }
+]
