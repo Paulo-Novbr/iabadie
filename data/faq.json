@@ -12,5 +12,54 @@
     "answer": "O curso exige 120 horas de atividades complementares.",
     "tagList": ["horas complementares", "curso"],
     "sourceList": ["https://exemplo.com/horas-complementares"]
+  },
+  {
+    "id": 3,
+    "question": "Qual a duração do curso?",
+    "answer": "A duração média do curso é de 3 anos.",
+    "tagList": ["duracao", "curso"],
+    "sourceList": ["https://exemplo.com/duracao"]
+  },
+  {
+    "id": 4,
+    "question": "Posso trancar o curso?",
+    "answer": "Sim, é possível trancar o curso seguindo as regras da instituição.",
+    "tagList": ["trancamento", "curso"],
+    "sourceList": ["https://exemplo.com/trancamento"]
+  },
+  {
+    "id": 5,
+    "question": "Como funciona o TCC?",
+    "answer": "O TCC é um trabalho final obrigatório com orientação de um professor.",
+    "tagList": ["tcc", "curso"],
+    "sourceList": ["https://exemplo.com/tcc"]
+  },
+  {
+    "id": 6,
+    "question": "Posso aproveitar disciplinas de outro curso?",
+    "answer": "Sim, mediante análise e aprovação da coordenação.",
+    "tagList": ["aproveitamento", "curso"],
+    "sourceList": ["https://exemplo.com/aproveitamento"]
+  },
+  {
+    "id": 7,
+    "question": "Como funciona a matrícula?",
+    "answer": "A matrícula deve ser feita online dentro do prazo estabelecido.",
+    "tagList": ["matricula", "processo"],
+    "sourceList": ["https://exemplo.com/matricula"]
+  },
+  {
+    "id": 8,
+    "question": "O curso é presencial ou EAD?",
+    "answer": "O curso é totalmente presencial.",
+    "tagList": ["modalidade", "curso"],
+    "sourceList": ["https://exemplo.com/modalidade"]
+  },
+  {
+    "id": 9,
+    "question": "Existe limite de faltas?",
+    "answer": "Sim, o aluno deve ter no mínimo 75% de presença.",
+    "tagList": ["faltas", "regras"],
+    "sourceList": ["https://exemplo.com/faltas"]
   }
 ]
