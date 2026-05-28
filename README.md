@@ -47,7 +47,7 @@ Antes de começar, instale:
 Abra o terminal, navegue até a pasta onde quer salvar o projeto e rode:
 
 ```bash
-git clone git@github.com:gabrielsoarespebr/iabadie.git
+git clone git@github.com:lesifpe/iabadie.git
 cd iabadie
 ```
 
